@@ -1,3 +1,3 @@
 # Pokédex
 
-Mapadev Week: Durante esse projeto iremos construir um projeto de pokédex básica;
+Durante esse projeto iremos construir um projeto básico de uma pokédex com fim de treinar HTML, CSS e JS;
